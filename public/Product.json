@@ -1,0 +1,58 @@
+
+[
+    {
+      "id": "A001",
+      "title": "Vintage Leica M3 Camera",
+      "description": "A rare vintage Leica M3 camera from the 1960s, in excellent condition.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2d",
+      "bidCount": 8,
+      "img": "https://i.ibb.co.com/cc5x85vc/Bid1-min.png"
+    },
+    {
+      "id": "A002",
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "A classic 1965 Gibson SG Standard electric guitar in cherry red.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2d",
+      "bidCount": 1,
+      "img": "https://i.ibb.co.com/Kc6Wg2x5/Bid2-min.png"
+    },
+    {
+      "id": "A003",
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "An original Apple Macintosh 128K from 1984, fully functional.",   
+      "currentBidPrice": 2850,
+      "timeLeft": "2d",
+      "bidCount": 2,
+      "img": "https://i.ibb.co.com/fV2kbFC2/Bid3-min.png"
+    },
+    {
+      "id": "A004",
+      "title": "Rolex Submariner 16610",
+      "description": "A classic Rolex Submariner 16610, in excellent condition.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2d",
+      "bidCount": 1,
+      "img": "https://i.ibb.co.com/PzF1XNQj/Bid4-min.png"
+    },
+    {
+      "id": "A005",
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+     "description": "A first edition of 'The Great Gatsby' by F. Scott Fitzgerald, in good condition.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2d",
+      "bidCount": 5,
+      "img": "https://i.ibb.co.com/4gZWTQ22/Bid5-min.png"
+    },
+    {
+      "id": "A006",
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "A vintage Eames lounge chair and ottoman set from the 1960s.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2d",
+      "bidCount": 2,
+      "img": "https://i.ibb.co.com/rKY7gbBf/Bid6-min.png"
+    }
+    
+     ]
